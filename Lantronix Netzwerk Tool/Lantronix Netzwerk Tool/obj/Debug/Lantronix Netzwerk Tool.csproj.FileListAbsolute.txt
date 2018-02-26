@@ -1,0 +1,20 @@
+C:\Users\Philipp Weber\Desktop\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\bin\Debug\Lantronix Netzwerk Tool.exe.config
+C:\Users\Philipp Weber\Desktop\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\bin\Debug\Lantronix Netzwerk Tool.exe
+C:\Users\Philipp Weber\Desktop\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\bin\Debug\Lantronix Netzwerk Tool.pdb
+C:\Users\Philipp Weber\Desktop\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\obj\Debug\Lantronix Netzwerk Tool.csprojResolveAssemblyReference.cache
+C:\Users\Philipp Weber\Desktop\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\obj\Debug\Lantronix_Netzwerk_Tool.Form1.resources
+C:\Users\Philipp Weber\Desktop\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\obj\Debug\Lantronix_Netzwerk_Tool.Properties.Resources.resources
+C:\Users\Philipp Weber\Desktop\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\obj\Debug\Lantronix Netzwerk Tool.csproj.GenerateResource.Cache
+C:\Users\Philipp Weber\Desktop\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\obj\Debug\Lantronix Netzwerk Tool.csproj.CoreCompileInputs.cache
+C:\Users\Philipp Weber\Desktop\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\obj\Debug\Lantronix Netzwerk Tool.exe
+C:\Users\Philipp Weber\Desktop\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\obj\Debug\Lantronix Netzwerk Tool.pdb
+Y:\Aplikationen\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\obj\Debug\Lantronix Netzwerk Tool.csprojResolveAssemblyReference.cache
+Y:\Aplikationen\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\obj\Debug\Lantronix_Netzwerk_Tool.Form1.resources
+Y:\Aplikationen\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\obj\Debug\Lantronix_Netzwerk_Tool.Properties.Resources.resources
+Y:\Aplikationen\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\obj\Debug\Lantronix Netzwerk Tool.csproj.GenerateResource.Cache
+Y:\Aplikationen\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\obj\Debug\Lantronix Netzwerk Tool.csproj.CoreCompileInputs.cache
+Y:\Aplikationen\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\obj\Debug\Lantronix Netzwerk Tool.exe
+Y:\Aplikationen\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\obj\Debug\Lantronix Netzwerk Tool.pdb
+Y:\Aplikationen\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\bin\Debug\Lantronix Netzwerk Tool.exe.config
+Y:\Aplikationen\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\bin\Debug\Lantronix Netzwerk Tool.exe
+Y:\Aplikationen\Lantronix\Lantronix Netzwerk Tool\Lantronix Netzwerk Tool\bin\Debug\Lantronix Netzwerk Tool.pdb
